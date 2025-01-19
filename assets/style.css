@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.jumbotron {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.carousel-item img {
+    border-radius: 10px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.nav-link {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item:hover {
+    background-color: #ff6f61;
+    border-radius: 5px;
+}
+
+.container {
+    padding: 30px 15px;
+}
